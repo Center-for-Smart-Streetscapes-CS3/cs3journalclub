@@ -92,16 +92,8 @@
       @extend .fs-2;
     }
 
-    &.lecture {
-      background-color: $grey-dk-000;
-    }
-
-    &.section {
-      background-color: $purple-000;
-    }
-
-    &.office-hours {
-      background-color: $blue-000;
+    &.journal-club {
+      background-color: $purple-dk-000;
     }
   }
 }

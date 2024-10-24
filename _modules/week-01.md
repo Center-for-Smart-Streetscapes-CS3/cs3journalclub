@@ -1,23 +1,16 @@
 ---
-title: Introduction to Java
+title: November 1, 2024
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+## Paper 1
+: **Paper**{: .label .label-purple }[Depth Pro](https://arxiv.org/abs/2410.02073)
+: **Supporting Paper**{: .label .label-blue }[Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984)
+: **Supporting Paper**{: .label .label-blue }[ZoeDepth: Combining relative and metric depth (Official implementation)](https://github.com/isl-org/ZoeDepth)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+## Paper 2
+: **Paper**{: .label .label-purple }[MonST3R](https://monst3r-project.github.io/)
+: **Supporting Paper**{: .label .label-blue }[CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion
+](https://arxiv.org/abs/2210.10716)
+: **Supporting Paper**{: .label .label-blue }[DUSt3R: Geometric 3D Vision Made Easy](https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/)
+: **Supporting Paper**{: .label .label-blue }[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/abs/2406.09756)
+: **Supporting Paper**{: .label .label-blue }[Spann3R: 3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
