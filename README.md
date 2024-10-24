@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS3 Journal Club
+title: Center for Smart Streetscapes (CS3) Journal Club
 nav_exclude: true
 permalink: /:path/
 seo:
