@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendar
+title: Papers and Sessions
 description: Listing of course modules and topics.
 ---
 

@@ -10,7 +10,9 @@ seo:
 
 # CS3 Journal Club
 
-Mark your calendar for November 1 and join us for the first session of the Center for Smart Streetscapes (CS3) Journal Club, where we will discuss recent research that could drive innovative streetscape projects by providing fresh ideas and approaches for future exploration.
+**Registration Link:** [**Zoom**](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
+
+Mark your calendar for November 1 and join us online for the first session of the Center for Smart Streetscapes (CS3) Journal Club, where we will discuss recent research that could drive innovative streetscape projects by providing fresh ideas and approaches for future exploration.
 
 
 In this session, Dr. Mehmet Kerem Turkcan will lead a discussion on two cutting-edge papers: MonST3R and Depth Pro.
