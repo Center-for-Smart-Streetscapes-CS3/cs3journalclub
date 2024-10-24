@@ -55,3 +55,11 @@ summary {
 a {
   color: #5277a4;
 }
+
+@media (min-width: 50rem) {
+  .site-header {
+      height: 7.75rem;
+      max-height: 7.75rem;
+      border-bottom: 1px solid #eeebee;
+  }
+}
