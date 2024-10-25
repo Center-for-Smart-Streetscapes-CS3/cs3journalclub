@@ -12,7 +12,8 @@ seo:
 
 **Registration Link:** [**Zoom**](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
 
-**Paper List:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/)
+**Paper List:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
+
 
 ![Journal Club Poster](assets/images/poster.svg)
 
@@ -28,7 +29,7 @@ Don’t miss this chance to connect and learn!
 
 **Registration Link:** [https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
 
-**Paper List:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/)
+**Paper List:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 
 # Background Information
