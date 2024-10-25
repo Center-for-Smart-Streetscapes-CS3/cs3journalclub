@@ -2,6 +2,9 @@
 title: November 1, 2024
 ---
 
+**Registration Link:** [https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
+
+
 Paper 1
 : **Paper**{: .label .label-purple }[Depth Pro](https://arxiv.org/abs/2410.02073)
 : **Supporting Paper**{: .label .label-blue }[Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984)
