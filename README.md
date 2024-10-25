@@ -9,10 +9,12 @@ seo:
 ---
 
 # CS3 Journal Club
+{: }
 
-### [Click Here to Register](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
-
-### [Click Here for Papers](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
+<span class="fs-6">
+[Register](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro){: .btn  .btn-purple .mr-2}
+[Papers List](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/){: .btn  .btn-blue}
+</span>
 
 [<img src="assets/images/poster.jpg">](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
@@ -27,16 +29,15 @@ This weekly club offers a relaxed space to explore papers, ask questions, and en
 
 Don’t miss this chance to connect and learn!
 
-[**Click Here to Register**](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
-
-[**Click Here for Papers**](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
+### [**Click Here** to Register](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
+### [**Click Here** for Papers](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 
 # Background Information
 
 ## About the Center for Smart Streetscapes (CS3)
 
-The Center for Smart Streetscapes (CS3) is a Gen-4 National Science Foundation (NSF) Engineering Research Center created in 2022 taking a new approach to smart cities and streets by prioritizing community input, organizational partnerships, and education initiatives in the research process. Based in Harlem, New York, the center is a partnership between Columbia University, Lehman College, Florida Atlantic University, University of Central Florida, and Rutgers University.
+[The Center for Smart Streetscapes (CS3)](https://cs3-erc.org/) is a Gen-4 National Science Foundation (NSF) Engineering Research Center created in 2022 taking a new approach to smart cities and streets by prioritizing community input, organizational partnerships, and education initiatives in the research process. Based in Harlem, New York, the center is a partnership between Columbia University, Lehman College, Florida Atlantic University, University of Central Florida, and Rutgers University.
 
 ## Our Mission
 

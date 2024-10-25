@@ -2,8 +2,9 @@
 title: November 1, 2024
 ---
 
-**Registration Link:** [Zoom](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
-
+<span class="fs-6">
+[Register](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro){: .btn  .btn-purple .mr-2}
+</span>
 
 Paper 1
 : **Paper**{: .label .label-purple }[Depth Pro](https://arxiv.org/abs/2410.02073)
