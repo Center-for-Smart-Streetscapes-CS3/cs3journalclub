@@ -24,6 +24,11 @@ This weekly club offers a relaxed space to explore papers, ask questions, and en
 
 Don’t miss this chance to connect and learn!
 
+**Registration Link:** [https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
+
+**Schedule:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/)
+
+
 # Background Information
 
 ## About the Center for Smart Streetscapes (CS3)
