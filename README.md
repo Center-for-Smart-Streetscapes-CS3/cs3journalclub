@@ -15,7 +15,11 @@ seo:
 **Paper List:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 
-![Journal Club Poster](assets/images/poster.svg)
+<object data="assets/images/poster.pdf" type="application/pdf">
+    <embed src="assets/images/poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/images/poster.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 Mark your calendar for November 1 and join us online for the first session of the Center for Smart Streetscapes (CS3) Journal Club, where we will discuss recent research that could drive innovative streetscape projects by providing fresh ideas and approaches for future exploration.
 
