@@ -14,7 +14,6 @@ seo:
 
 ### [Click Here for Papers](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
-
 [<img src="assets/images/poster.jpg">](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 
@@ -28,9 +27,9 @@ This weekly club offers a relaxed space to explore papers, ask questions, and en
 
 Don’t miss this chance to connect and learn!
 
-[Click Here to Register](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
+[**Click Here to Register**](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
 
-[Click Here for Papers](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
+[**Click Here for Papers**](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 
 # Background Information
