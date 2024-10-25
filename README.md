@@ -12,6 +12,8 @@ seo:
 
 **Registration Link:** [**Zoom**](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
 
+**Paper List:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/)
+
 ![Journal Club Poster](assets/images/poster.svg)
 
 Mark your calendar for November 1 and join us online for the first session of the Center for Smart Streetscapes (CS3) Journal Club, where we will discuss recent research that could drive innovative streetscape projects by providing fresh ideas and approaches for future exploration.
@@ -26,7 +28,7 @@ Don’t miss this chance to connect and learn!
 
 **Registration Link:** [https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
 
-**Schedule:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/)
+**Paper List:** [https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/)
 
 
 # Background Information
