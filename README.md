@@ -16,6 +16,8 @@ seo:
 [Papers List](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/){: .btn  .btn-blue}
 </span>
 
+For any questions, please e-mail CS3 Associate Research Scientist Mehmet Kerem Turkcan at mkt2126@columbia.edu.
+
 [<img src="assets/images/poster.jpg">](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 
@@ -31,6 +33,8 @@ Don’t miss this chance to connect and learn!
 
 ### [**Click Here** to Register](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
 ### [**Click Here** for Papers](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
+
+For any questions, please e-mail CS3 Associate Research Scientist Mehmet Kerem Turkcan at mkt2126@columbia.edu.
 
 
 # Background Information
