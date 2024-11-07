@@ -12,16 +12,16 @@ seo:
 {: }
 
 <span class="fs-6">
-[Register](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro){: .btn  .btn-purple .mr-2}
+[Join](https://columbiauniversity.zoom.us/j/5643997588?pwd=UHRwS1p6QlZtb0IzUXlvL25KakcvQT09&omn=91079942650){: .btn  .btn-purple .mr-2}
 [Papers List](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/){: .btn  .btn-blue}
 </span>
 
 For any questions, please e-mail CS3 Associate Research Scientist Mehmet Kerem Turkcan at mkt2126@columbia.edu.
 
-[<img src="assets/images/poster.jpg">](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
+[<img src="assets/images/posternov8.jpg">](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 
-Mark your calendar for November 1 and join us online for the first session of the Center for Smart Streetscapes (CS3) Journal Club, where we will discuss recent research that could drive innovative streetscape projects by providing fresh ideas and approaches for future exploration.
+Mark your calendar for November 8 and join us online for the second session of the Center for Smart Streetscapes (CS3) Journal Club, where we will discuss recent research that could drive innovative streetscape projects by providing fresh ideas and approaches for future exploration.
 
 
 In this session, Dr. Mehmet Kerem Turkcan will lead a discussion on two cutting-edge papers: MonST3R and Depth Pro.
@@ -31,7 +31,7 @@ This weekly club offers a relaxed space to explore papers, ask questions, and en
 
 Don’t miss this chance to connect and learn!
 
-### [**Click Here** to Register](https://columbiauniversity.zoom.us/meeting/register/tJMqdOiopjMiG90h2BitwbgdUmZ6cSG6gOro)
+### [**Click Here** to Join](https://columbiauniversity.zoom.us/j/5643997588?pwd=UHRwS1p6QlZtb0IzUXlvL25KakcvQT09&omn=91079942650)
 ### [**Click Here** for Papers](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 For any questions, please e-mail CS3 Associate Research Scientist Mehmet Kerem Turkcan at mkt2126@columbia.edu.
