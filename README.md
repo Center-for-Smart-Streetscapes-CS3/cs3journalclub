@@ -12,7 +12,7 @@ seo:
 {: }
 
 <span class="fs-6">
-[Join](https://columbiauniversity.zoom.us/j/5643997588?pwd=UHRwS1p6QlZtb0IzUXlvL25KakcvQT09&omn=91079942650){: .btn  .btn-purple .mr-2}
+[Register](https://forms.gle/7WL7jdcwanh7zcnX9){: .btn  .btn-purple .mr-2}
 [Papers List](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/){: .btn  .btn-blue}
 </span>
 
@@ -31,7 +31,7 @@ This weekly club offers a relaxed space to explore papers, ask questions, and en
 
 Don’t miss this chance to connect and learn!
 
-### [**Click Here** to Join](https://columbiauniversity.zoom.us/j/5643997588?pwd=UHRwS1p6QlZtb0IzUXlvL25KakcvQT09&omn=91079942650)
+### [**Click Here** to Register](https://forms.gle/7WL7jdcwanh7zcnX9)
 ### [**Click Here** for Papers](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 For any questions, please e-mail CS3 Associate Research Scientist Mehmet Kerem Turkcan at mkt2126@columbia.edu.
