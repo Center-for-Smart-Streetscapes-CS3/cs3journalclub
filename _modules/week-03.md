@@ -10,4 +10,4 @@ Paper 1
 : **Paper**{: .label .label-purple }[DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://chenshuo20.github.io/DimensionX/)
 
 Paper 2
-: **Supporting Paper**{: .label .label-blue }[TBD]
+: **Paper**{: .label .label-blue }[TBD]
