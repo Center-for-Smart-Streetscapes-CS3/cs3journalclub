@@ -21,11 +21,7 @@ For any questions, please e-mail CS3 Associate Research Scientist Mehmet Kerem T
 [<img src="assets/images/posterfeb14.jpg">](https://center-for-smart-streetscapes-cs3.github.io/cs3journalclub/calendar/)
 
 
-Mark your calendar for February 14 and join us online for the second session of the Center for Smart Streetscapes (CS3) Journal Club, where we will discuss recent research that could drive innovative streetscape projects by providing fresh ideas and approaches for future exploration.
-
-
-In this session, Dr. Mehmet Kerem Turkcan will lead a discussion on two cutting-edge papers: MonST3R and Depth Pro.
-
+Mark your calendar for April 18 and join us online for the Center for Smart Streetscapes (CS3) Journal Club, where we will discuss recent research that could drive innovative streetscape projects by providing fresh ideas and approaches for future exploration.
 
 This weekly club offers a relaxed space to explore papers, ask questions, and engage with new methods. Whether you want to participate or just listen in, all are welcome! Future presenters are invited to share their newest favorite papers in future weeks.
 
